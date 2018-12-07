@@ -1,0 +1,47 @@
+body{
+    margin:50px auto 50px auto;
+    width:70%;
+    
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between;
+  }
+  main{
+    margin-top:0px;
+    background-color:#7F461B;
+    height:100%;
+    display:flex;
+    justify-content:space-between;
+  }
+  img {
+    height: auto;
+    width: 200px;
+    margin: 0 0 0 0;
+    
+  }
+  .mac {
+   
+    font-family: cursive;
+    font-size: 1.3em;
+    text-align: center;
+  }
+  h1{
+   background-image:url(http://www.drurycafe.co.uk/images/richardson-road/drury-latte-390x260.jpg ) ;
+   
+    padding:15px;
+    border-radius:20px;
+    text-align:center;
+    
+  }
+  
+  address{
+    padding:1px;
+    background-color:#98FB98;
+      display:flex;
+    justify-content: space-around;
+    
+  }
+  #machu{
+    width:1000px;
+  }
+  
